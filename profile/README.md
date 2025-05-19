@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to **BlazeVim** — a lightning-fast, beginner-friendly, and fully extensible Neovim configuration framework that *just works*.  
+Welcome to **BlazeVim** — a lightning-fast, beginner-friendly, and fully extensible Neovim configuration framework inspired by [LazyVim](https://github.com/LazyVim/LazyVim) that *just works*.  
 Built to set your editor on 🔥 without setting your brain on fire.  
 Forget writing Lua scripts. Forget debugging plugin setups. BlazeVim gives you the power of Neovim with none of the friction.
 
